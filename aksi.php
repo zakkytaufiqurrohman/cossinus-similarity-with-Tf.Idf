@@ -41,7 +41,7 @@
 
 		<br/>
 		<br/>
-		<a href="index2.php"><button>Upload Lagi</button></a>
+		<a href="upload.php"><button>Upload Lagi</button></a>
 		<a href="index.php"><button>Preprocess</button></a>
 		<br/>
 		<br/>

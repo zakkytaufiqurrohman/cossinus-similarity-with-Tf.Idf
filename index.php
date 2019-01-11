@@ -40,14 +40,14 @@
 </head>
 <body>
 <h1>INDEX</h1>
-    <form action="stki.php" method='GET'>
+    <form action="perhitungan1.php" method='GET'>
         <input type="text" name="cari" id="" autofocus size='50' class="text">
         <button name='submit' class='text'> submit</button>
     </form>
     <br>
     <br>
-    <a href="index2.php" class='upload'>Upload Dokument</a>
-    <a href="about_me.php" class="about">About Me &copy 2018</a>
+    <a href="upload.php" class='upload'>Upload Dokument</a>
+    <a href="about_me.php" class="about">About Us &copy 2018</a>
 
 
 </body>

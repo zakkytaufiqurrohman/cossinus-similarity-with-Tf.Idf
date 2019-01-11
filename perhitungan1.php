@@ -60,7 +60,7 @@
     <tr>
         <td><h3>INDEX</h3></td>
         <td>
-            <form action="stki.php" method='GET'>
+            <form action="perhitungan1.php" method='GET'>
                 <input type="text" name="cari" id="" autofocus size='100' class="text">
                 <button name='submit' class='text'> Search</button>
             </form>
@@ -69,9 +69,9 @@
 
 </table>
     <br>
-    <a href="index2.php" class='upload'>Upload Dokument</a>
-    <a href="about_me.php" class="about">About Me &copy 2018</a>
-    <a href="bacup.php" class="about">Perhitungan</a>
+    <a href="upload.php" class='upload'>Upload Dokument</a>
+    <a href="about_me.php" class="about">About us &copy 2018</a>
+    <a href="perhitungan.php" class="about">Perhitungan</a>
     <hr size="0.001">
 
 
